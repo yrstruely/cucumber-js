@@ -16,7 +16,7 @@ temp/
 .secrets/
 
 #results
-test/bdd/results/
+test/results/
 
 # Compiled Java class files
 *.class
